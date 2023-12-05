@@ -1,5 +1,5 @@
 {
-  "cSpell.words": ["Parens", "tailwindcss", "tailwindui"],
+  "cSpell.words": ["clsx", "heroicons", "Parens", "tailwindcss", "tailwindui"],
   "editor.formatOnSave": true,
   "eslint.workingDirectories": [{ "mode": "auto" }]
 }

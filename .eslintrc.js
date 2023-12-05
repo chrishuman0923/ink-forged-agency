@@ -19,7 +19,7 @@ module.exports = {
   plugins: ['react', '@typescript-eslint', 'prefer-arrow', 'simple-import-sort', 'prettier'],
   rules: {
     '@typescript-eslint/no-unused-vars': ['error', { argsIgnorePattern: '^_', varsIgnorePattern: '^_' }],
-    'import/extensions': ['error', 'never', { css: 'always', ts: 'never', tsx: 'never' }],
+    'import/extensions': ['error', 'never', { css: 'always', jpeg: 'always', ts: 'never', tsx: 'never' }],
     'import/no-extraneous-dependencies': 'off',
     'react/function-component-definition': ['error', { namedComponents: 'arrow-function', unnamedComponents: 'arrow-function' }],
     'react/jsx-props-no-spreading': 'off',
